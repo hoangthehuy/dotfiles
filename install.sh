@@ -1,3 +1,5 @@
+#!/bin/bash
+
 packages=(
     'neofetch'  # TODO: switch off neofetch
     'onefetch'
