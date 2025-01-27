@@ -217,4 +217,4 @@ cd() {
 
 # Run neofetch on terminal login! (just looks kinda cool :3)
 # TODO: Migrate off of neofetch since it is not maintained anymore :(
-neofetch
+fastfetch

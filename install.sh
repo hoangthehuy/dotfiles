@@ -3,6 +3,7 @@
 packages=(
     'neofetch'  # TODO: switch off neofetch
     'onefetch'
+    # 'fastfetch'
 )
 apt_repositories=(
     'ppa:o2sh/onefetch'
